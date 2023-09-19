@@ -1,7 +1,7 @@
 <h1>SQL Challenge</h1>
 <img
-        src="https://www.freepik.com/free-vector/employees-with-laptops-learning-professional-trainig_12085891.htm#query=employee%20training&position=5&from_view=keyword&track=ais"
-        alt="Illustration of a team of employees"
+        src="https://img.freepik.com/free-vector/employees-with-laptops-learning-professional-trainig_335657-3298.jpg?w=1480&t=st=1695099964~exp=1695100564~hmac=03745e25d5f447669271e1ea684668bde1e413da11c594821b327f0b7a0f57e0"
+        alt="Illustration of a team of employees working on laptops"
         width="650"
       />
 </br>
