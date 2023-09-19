@@ -30,7 +30,7 @@ This project repository includes files that involve data modelling (tables desig
 </br>
 <p>- 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).</p> 
 </br>
-<p>- Queries were completed using SQL code, which can be found in the queries_schema.sql file.</p> 
+<p>Queries were completed using SQL code, which can be found in the queries_schema.sql file.</p> 
 </br>
 <p>----------------------------------------------------------</p> 
 </br>
